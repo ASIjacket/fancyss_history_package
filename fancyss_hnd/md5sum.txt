@@ -57,3 +57,4 @@ bb74a66fa94c7d21081d922faae66c2d shadowsocks_1.7.3.tar.gz
 f5095732a1e6ea4aad295ed18acaba34 shadowsocks_1.7.7.tar.gz
 81ba4e630439b845cd225da7c8f36964 shadowsocks_1.7.8.tar.gz
 0bf374145ae10cd8d95ad8d446d95e75 shadowsocks_1.8.1.tar.gz
+5cc1707c61269e70fb4aa7c063e05033 shadowsocks_1.8.3.tar.gz
